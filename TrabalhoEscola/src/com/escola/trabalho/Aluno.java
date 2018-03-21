@@ -2,21 +2,6 @@ package com.escola.trabalho;
 
 import java.util.*;
 
-/*
-x atributos da turma onde o aluno estuda, nome, matricula, e de tres notas que
-representam respectivamente as disciplinas de Matematica, Português e Ciências.
-x um método que permita adicionar o aluno a uma turma. É necessário validar se a
-turma possui vagas.
-x um método que permita trocar o aluno de turma.
-x um método que permita inserir uma nota para a disciplina de Matemática. A nota
-deve ser menor ou igual a 100.
-x um método que permita inserir uma nota para a disciplina de Português. A nota
-deve ser menor ou igual a 100.
-x um método que permita inserir uma nota para a disciplina de Ciências. A nota deve
-ser menor ou igual a 100.
-x um método que permita calcular a média de todas as notas. 
-*/
-
 public class Aluno {
 	Scanner read = new Scanner(System.in);
 	
